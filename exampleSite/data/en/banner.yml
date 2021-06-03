@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/math.webp"
+  bg_image : "images/backgrounds/math.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Jamil Abbas"
+  content : "Data Science Portfolio"
+  button:
+    enable : true
+    label : "Projects"
+    link : "#portfolio"

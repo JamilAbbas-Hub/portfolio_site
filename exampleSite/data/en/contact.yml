@@ -1,0 +1,17 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact
+  subtitle : #Contact Details
+  content : Feel free to contact me through any medium provided.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Virginia, USA"
+
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +1 (703) 479-8550"
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: Jamilkabbas98@gmail.com"

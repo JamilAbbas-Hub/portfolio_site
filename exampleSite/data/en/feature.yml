@@ -1,0 +1,17 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : About Me
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  feature_item :
+      # feature item loop
+    - title : Education
+      icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+      content : Bachelor of Science in Computation and Applied Mathematics and Statistics from the College of William and Mary (2020)
+
+      # feature item loop
+    - title : Coding Skills
+      icon : ti-align-justify # themify icon pack : https://themify.me/themify-icons
+      content : Proficient in Python (Numpy, Pandas, Matplotlib.pyplot, plotly, Seaborn, scikit-learn, Tensorflow/Keras, statsmodels) Git/Github, Markdown, LaTeX, and Jupyter Notebooks

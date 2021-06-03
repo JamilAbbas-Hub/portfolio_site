@@ -1,0 +1,52 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Portfolio
+  portfolio_item :
+    # portfolio item loop
+    - name : Pneumonia Detection Bot
+      image : images/portfolio/pneumonia.jpg
+      image_webp : images/portfolio/pneumonia.webp
+      #categories : ["design"]
+      content : A convolutional neural network that attempts to classify chest X-ray images with pneumonia
+      link : "https://github.com/JamilAbbas-Hub/pneumonia_detection/blob/master/Pneumonia_Detection.ipynb"
+
+    # portfolio item loop
+    - name : Fake News Classification
+      image : images/portfolio/fake-news.jpg
+      image_webp : images/portfolio/fake-news.webp
+      #categories : ["development"]
+      content : This project aims to create a model capable of distinguishing fake news from real news
+      link : "https://github.com/JamilAbbas-Hub/fake_news_classifier/blob/master/Fake%20News%20Classifier.ipynb"
+
+    # portfolio item loop
+    - name : Netflix Recommendation System
+      image : images/portfolio/netflix.jpg
+      image_webp : images/portfolio/netflix.webp
+      #categories : ["design", "development"]
+      content : Explores Netflix program data and creates a recommendation system based on text features
+      link : "https://github.com/JamilAbbas-Hub/netflix_bot/blob/master/Netflix_Recommendation_Bot.ipynb"
+
+    # portfolio item loop
+    - name : US Crisis Monitor
+      image : images/portfolio/crisis.jpg
+      image_webp : images/portfolio/crisis.webp
+      #categories : ["photography", "development"]
+      content : Spatial data visualization and COVID-19 analysis of the 2020 protests that took place across the United States
+      link : "https://github.com/JamilAbbas-Hub/us_crisis_monitor"
+
+    # portfolio item loop
+    - name : Michelin Star Restaurants Exploration
+      image : images/portfolio/michelin.png
+      image_webp : images/portfolio/michelin.webp
+      #categories : ["design"]
+      content : Exploratory data analysis and visualization of all restaurants awared a Michelin Star
+      link : "https://github.com/JamilAbbas-Hub/michelin_star_restaurants"
+
+    # portfolio item loop
+    - name : Bitcoin Trend Prediction
+      image : images/portfolio/bitcoin.jpg
+      image_webp : images/portfolio/bitcoin.webp
+      #categories : ["photography"]
+      content : This project aims to determine if statistical methods can be utilized to predict the trend of bitcoin prices
+      link : "https://github.com/JamilAbbas-Hub/bitcoin_trend_prediction/blob/master/Bitcoin.ipynb"
